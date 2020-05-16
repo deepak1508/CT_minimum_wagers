@@ -1,0 +1,8 @@
+Features in library
+
+> Populating App Color Themes automatically/ Custom from dashboard
+> Raising events to CleverTap
+> Thank you push notification (optional)
+> customisable text
+> control over which rating redirects to google play from dashboard
+> control over content from dashboard
